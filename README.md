@@ -1,4 +1,4 @@
-# Allox-bot
+# go-slackbot-blueprint
 
 環境変数に下記を設定して起動
 
